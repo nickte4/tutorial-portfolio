@@ -12,7 +12,7 @@ A responsive portfolio website built using Slaying the Dragon's tutorial video.
 
 ## Scope
 
-The scope of project involves portfolio design, laying out elements on a webpage, and implementing responsive web design efficiently.
+The scope of project involves portfolio design, laying out elements on a webpage, and implementing responsive web design efficiently. The project also involves the use of CSS utility classes and variables to better streamline development.
 
 ## Description
 
