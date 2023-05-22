@@ -24,9 +24,8 @@
   } */
 
 /* 2 XL */
-/* @media (min-width: 1536px) { */
-/*  */
-/* } */
+/* @media (min-width: 1536px) {
+}*/
 
 /* styles btn utility class */
 .btn {
@@ -57,7 +56,7 @@
   margin-right: auto;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .section {
