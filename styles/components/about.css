@@ -30,6 +30,7 @@
   color: var(--clr-slate400);
 }
 
+/* places list items in two columns */
 .about__ul-container {
   display: flex;
 }
